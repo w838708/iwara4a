@@ -5,10 +5,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/re-ovo/iwara4a)](https://github.com/jiangdashao/iwara4a/stargazers)
 [![GitHub license](https://img.shields.io/github/license/re-ovo/iwara4a)](https://github.com/jiangdashao/iwara4a)
 ![GitHub all releases](https://img.shields.io/github/downloads/re-ovo/iwara4a/total)
-[[English Document]](/art/doc/README_EN.md)
+[[English Document]]   
+(/art/doc/README_EN.md)
 
 基于Jetpack Compose开发的 [iwara](https://iwara.tv) 第三方安卓客户端, 采用Material You设计, 支持安卓6.0以上版本, 完全无多余权限请求
 
+本人吃饱了撑的，如果你有什么好的网站可以做成APP的，你可以联系我，本人热衷于开源项目 [TG交流群](https://t.me/re_apps)
+
+> 出于各种原因，该APP以后基本不会再提供更新，敬请谅解
 > APP使用 JSoup/Retrofit 解析I站网页，提取数据并渲染为安卓原生界面，I站**任何内容与本APP无关**，app仅仅承担浏览器的功能   
 > 使用请遵守你所在地区法律，请勿在**任何渠道**公开传播该APP
 
